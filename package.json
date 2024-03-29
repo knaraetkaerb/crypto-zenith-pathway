@@ -1,0 +1,33 @@
+{
+  "name": "crypto-zenith-pathway",
+  "version": "1.0.0",
+  "description": "Offers a robust solution for managing large-scale IoT networks, ensuring efficient device communication, data processing, and system security.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/crypto-zenith-pathway"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "echo-nexus-domain": "1.0.0",
+    "fractal-harbor-engine": "1.0.0",
+    "mysql": "1.0.0",
+    "lodash": "1.0.0",
+    "jquery": "1.0.0",
+    "cors": "1.0.0",
+    "axios": "1.0.0",
+    "ejs": "1.0.0",
+    "supertest": "1.0.0",
+    "dotenv": "1.0.0",
+    "mocha": "1.0.0",
+    "web3": "1.0.0",
+    "jest": "1.0.0",
+    "multer": "1.0.0"
+  }
+}
